@@ -154,7 +154,7 @@ tinymce.init({
 ```
    更多配置(选配) :
          
-   提供 导入word 插件  过滤函数 file_callback 配置参数【Function类型】传入2个参数
+   提供 upfile 插件  过滤函数 file_callback 配置参数【Function类型】传入2个参数
    
    1. file : 文件对象【file】
    2. succFun : 成功回调函数 传入 html标签字符串【Function类型】(url|string,obj)
